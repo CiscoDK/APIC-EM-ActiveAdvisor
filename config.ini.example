@@ -1,0 +1,9 @@
+[auth]
+APIC_EM_USERNAME = username
+APIC_EM_PASSWORD = password
+
+ccoUser = CCO-USERNAME-HERE
+ccoPass = CCO-PASSWORD-HERE
+
+[server] 
+baseURL = https://<serverIP or FQDN>/api/v1
